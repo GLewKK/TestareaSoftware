@@ -1,0 +1,2 @@
+# TestareaSoftware
+Laboratoare la TS
